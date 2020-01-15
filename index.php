@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Somethinge new</title>
   </head>
   <body>
     PHP Y'ALL
