@@ -1,8 +1,9 @@
-<!DOCTYPE html>
+ checkout<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Another title</title>
+    <title>Better Title for New branch</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     PHP Y'ALL
